@@ -23,6 +23,6 @@ No nos atrevimos a cogerlas por si su manipulación hacia que todo ese hermoso m
 
 **Logramos hacerles fotos.**
 
-<img src="https://i.pinimg.com/originals/44/04/d3/4404d367de07e356232289714d95b849.jpg" width="500">
+<img src="https://i.pinimg.com/originals/44/04/d3/4404d367de07e356232289714d95b849.jpg" width="300">
 
 5. Agradecimientos
