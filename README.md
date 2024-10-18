@@ -2,8 +2,8 @@
 
 **Cosecha propia de patacas**
 
-*Presentacion
-*El proyecto
-*Instalacion
-*Instrucciones operacionales
-*Agradecimientos
+1. Presentacion
+2. El proyecto
+3. Instalacion
+4. Instrucciones operacionales
+5. Agradecimientos
