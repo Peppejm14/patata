@@ -46,3 +46,5 @@ No nos atrevimos a cogerlas por si su manipulación hacia que todo ese hermoso m
 <img src="https://i.pinimg.com/originals/44/04/d3/4404d367de07e356232289714d95b849.jpg" width="300">
 
 5. Agradecimientos
+
+Queremos dedicar esta sección a expresar nuestro más sincero agradecimiento a todos aquellos que hicieron posible este proyecto del campo de patatas. Porque detrás de cada patata hay un equipo, y detrás de cada equipo, hay un Papa es que es una papa y es papa de muchas papas.
